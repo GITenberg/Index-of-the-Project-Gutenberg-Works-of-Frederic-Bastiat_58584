@@ -1,0 +1,31 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Frederic-Bastiat_58584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Claude Frédéric
+    - Bastiat, Frederic
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Frédéric Bastiat
+url: http://www.gutenberg.org/ebooks/58584
